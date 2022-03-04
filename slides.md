@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: seriph
+theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
