@@ -154,6 +154,7 @@ function Example() {
 # Don't think in Component lifecycle
 
 <div class="h-8" />
+
 #### Don't look for functional equivalents for `componentDidMount, componentDidUpdate, componentWillUpdate, etc.`
 
 <div class="h-8" />
